@@ -1,0 +1,146 @@
+C:\Users\sergi\source\repos\desde0tesla\desde0tesla\obj\Debug\desde0tesla.csproj.AssemblyReference.cache
+C:\Users\sergi\source\repos\desde0tesla\desde0tesla\obj\Debug\desde0tesla.csproj.SuggestedBindingRedirects.cache
+C:\Users\sergi\source\repos\desde0tesla\desde0tesla\obj\Debug\desde0tesla.Form1.resources
+C:\Users\sergi\source\repos\desde0tesla\desde0tesla\obj\Debug\desde0tesla.Properties.Resources.resources
+C:\Users\sergi\source\repos\desde0tesla\desde0tesla\obj\Debug\desde0tesla.csproj.GenerateResource.cache
+C:\Users\sergi\source\repos\desde0tesla\desde0tesla\obj\Debug\desde0tesla.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\desde0tesla\desde0tesla\bin\Debug\desde0tesla.exe.config
+C:\Users\sergi\source\repos\desde0tesla\desde0tesla\bin\Debug\desde0tesla.exe
+C:\Users\sergi\source\repos\desde0tesla\desde0tesla\bin\Debug\desde0tesla.pdb
+C:\Users\sergi\source\repos\desde0tesla\desde0tesla\obj\Debug\desde0tesla.exe
+C:\Users\sergi\source\repos\desde0tesla\desde0tesla\obj\Debug\desde0tesla.pdb
+C:\Users\sergi\source\repos\desde0tesla\desde0tesla\obj\Debug\desde0tesla.Form2.resources
+C:\Users\Usuario\Downloads\desde0tesla\desde0tesla\desde0tesla\bin\Debug\desde0tesla.exe.config
+C:\Users\Usuario\Downloads\desde0tesla\desde0tesla\desde0tesla\bin\Debug\desde0tesla.exe
+C:\Users\Usuario\Downloads\desde0tesla\desde0tesla\desde0tesla\bin\Debug\desde0tesla.pdb
+C:\Users\Usuario\Downloads\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.Form1.resources
+C:\Users\Usuario\Downloads\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.Form2.resources
+C:\Users\Usuario\Downloads\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.Properties.Resources.resources
+C:\Users\Usuario\Downloads\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.exe
+C:\Users\Usuario\Downloads\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.pdb
+C:\Users\Usuario\Downloads\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\bin\Debug\desde0tesla.exe.config
+C:\Users\Usuario\Downloads\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\bin\Debug\desde0tesla.exe
+C:\Users\Usuario\Downloads\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\bin\Debug\desde0tesla.pdb
+C:\Users\Usuario\Downloads\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Downloads\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.Form1.resources
+C:\Users\Usuario\Downloads\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.Form2.resources
+C:\Users\Usuario\Downloads\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.Properties.Resources.resources
+C:\Users\Usuario\Downloads\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.exe
+C:\Users\Usuario\Downloads\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.pdb
+C:\Users\Usuario\Downloads\desde0tesla3.0\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\bin\Debug\desde0tesla.exe.config
+C:\Users\Usuario\Downloads\desde0tesla3.0\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\bin\Debug\desde0tesla.exe
+C:\Users\Usuario\Downloads\desde0tesla3.0\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\bin\Debug\desde0tesla.pdb
+C:\Users\Usuario\Downloads\desde0tesla3.0\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\desde0tesla3.0\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Downloads\desde0tesla3.0\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.Form1.resources
+C:\Users\Usuario\Downloads\desde0tesla3.0\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.Form2.resources
+C:\Users\Usuario\Downloads\desde0tesla3.0\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.Properties.Resources.resources
+C:\Users\Usuario\Downloads\desde0tesla3.0\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\desde0tesla3.0\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\desde0tesla3.0\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.exe
+C:\Users\Usuario\Downloads\desde0tesla3.0\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.pdb
+C:\Users\Usuario\Desktop\c# trabajo2\desde0tesla3.0\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\bin\Debug\desde0tesla.exe.config
+C:\Users\Usuario\Desktop\c# trabajo2\desde0tesla3.0\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\bin\Debug\desde0tesla.exe
+C:\Users\Usuario\Desktop\c# trabajo2\desde0tesla3.0\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\bin\Debug\desde0tesla.pdb
+C:\Users\Usuario\Desktop\c# trabajo2\desde0tesla3.0\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\c# trabajo2\desde0tesla3.0\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\c# trabajo2\desde0tesla3.0\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.Form1.resources
+C:\Users\Usuario\Desktop\c# trabajo2\desde0tesla3.0\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.Form2.resources
+C:\Users\Usuario\Desktop\c# trabajo2\desde0tesla3.0\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.Properties.Resources.resources
+C:\Users\Usuario\Desktop\c# trabajo2\desde0tesla3.0\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\c# trabajo2\desde0tesla3.0\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\c# trabajo2\desde0tesla3.0\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.exe
+C:\Users\Usuario\Desktop\c# trabajo2\desde0tesla3.0\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.pdb
+C:\Users\Usuario\Downloads\eze1545\desde0tesla3.0\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\bin\Debug\desde0tesla.exe.config
+C:\Users\Usuario\Downloads\eze1545\desde0tesla3.0\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\bin\Debug\desde0tesla.exe
+C:\Users\Usuario\Downloads\eze1545\desde0tesla3.0\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\bin\Debug\desde0tesla.pdb
+C:\Users\Usuario\Downloads\eze1545\desde0tesla3.0\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\eze1545\desde0tesla3.0\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Downloads\eze1545\desde0tesla3.0\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.Form1.resources
+C:\Users\Usuario\Downloads\eze1545\desde0tesla3.0\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.Form2.resources
+C:\Users\Usuario\Downloads\eze1545\desde0tesla3.0\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.Properties.Resources.resources
+C:\Users\Usuario\Downloads\eze1545\desde0tesla3.0\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\eze1545\desde0tesla3.0\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\eze1545\desde0tesla3.0\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.exe
+C:\Users\Usuario\Downloads\eze1545\desde0tesla3.0\desde0tesla2.0\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.pdb
+C:\Users\Usuario\Downloads\CASI TESLA\desde0tesla\desde0tesla\bin\Debug\desde0tesla.exe.config
+C:\Users\Usuario\Downloads\CASI TESLA\desde0tesla\desde0tesla\bin\Debug\desde0tesla.exe
+C:\Users\Usuario\Downloads\CASI TESLA\desde0tesla\desde0tesla\bin\Debug\desde0tesla.pdb
+C:\Users\Usuario\Downloads\CASI TESLA\desde0tesla\desde0tesla\obj\Debug\desde0tesla.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\CASI TESLA\desde0tesla\desde0tesla\obj\Debug\desde0tesla.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Downloads\CASI TESLA\desde0tesla\desde0tesla\obj\Debug\desde0tesla.Form1.resources
+C:\Users\Usuario\Downloads\CASI TESLA\desde0tesla\desde0tesla\obj\Debug\desde0tesla.Form2.resources
+C:\Users\Usuario\Downloads\CASI TESLA\desde0tesla\desde0tesla\obj\Debug\desde0tesla.Properties.Resources.resources
+C:\Users\Usuario\Downloads\CASI TESLA\desde0tesla\desde0tesla\obj\Debug\desde0tesla.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\CASI TESLA\desde0tesla\desde0tesla\obj\Debug\desde0tesla.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\CASI TESLA\desde0tesla\desde0tesla\obj\Debug\desde0tesla.exe
+C:\Users\Usuario\Downloads\CASI TESLA\desde0tesla\desde0tesla\obj\Debug\desde0tesla.pdb
+C:\Users\sergi\OneDrive\Escritorio\25.06 21.48\desde0tesla\desde0tesla\bin\Debug\desde0tesla.exe.config
+C:\Users\sergi\OneDrive\Escritorio\25.06 21.48\desde0tesla\desde0tesla\bin\Debug\desde0tesla.exe
+C:\Users\sergi\OneDrive\Escritorio\25.06 21.48\desde0tesla\desde0tesla\bin\Debug\desde0tesla.pdb
+C:\Users\sergi\OneDrive\Escritorio\25.06 21.48\desde0tesla\desde0tesla\obj\Debug\desde0tesla.csproj.AssemblyReference.cache
+C:\Users\sergi\OneDrive\Escritorio\25.06 21.48\desde0tesla\desde0tesla\obj\Debug\desde0tesla.csproj.SuggestedBindingRedirects.cache
+C:\Users\sergi\OneDrive\Escritorio\25.06 21.48\desde0tesla\desde0tesla\obj\Debug\desde0tesla.Form1.resources
+C:\Users\sergi\OneDrive\Escritorio\25.06 21.48\desde0tesla\desde0tesla\obj\Debug\desde0tesla.Form2.resources
+C:\Users\sergi\OneDrive\Escritorio\25.06 21.48\desde0tesla\desde0tesla\obj\Debug\desde0tesla.Properties.Resources.resources
+C:\Users\sergi\OneDrive\Escritorio\25.06 21.48\desde0tesla\desde0tesla\obj\Debug\desde0tesla.csproj.GenerateResource.cache
+C:\Users\sergi\OneDrive\Escritorio\25.06 21.48\desde0tesla\desde0tesla\obj\Debug\desde0tesla.csproj.CoreCompileInputs.cache
+C:\Users\sergi\OneDrive\Escritorio\25.06 21.48\desde0tesla\desde0tesla\obj\Debug\desde0tesla.exe
+C:\Users\sergi\OneDrive\Escritorio\25.06 21.48\desde0tesla\desde0tesla\obj\Debug\desde0tesla.pdb
+C:\Users\sergi\OneDrive\Escritorio\25.06 21.48\desde0tesla\desde0tesla\obj\Debug\desde0tesla.Form3.resources
+C:\Users\Usuario\Downloads\25.06 21.48\25.06 21.48\desde0tesla\desde0tesla\obj\Debug\desde0tesla.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\25.06 21.48\25.06 21.48\desde0tesla\desde0tesla\obj\Debug\desde0tesla.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Downloads\25.06 21.48\25.06 21.48\desde0tesla\desde0tesla\obj\Debug\desde0tesla.Form1.resources
+C:\Users\Usuario\Downloads\25.06 21.48\25.06 21.48\desde0tesla\desde0tesla\obj\Debug\desde0tesla.Form2.resources
+C:\Users\Usuario\Downloads\25.06 21.48\25.06 21.48\desde0tesla\desde0tesla\obj\Debug\desde0tesla.Form3.resources
+C:\Users\Usuario\Downloads\25.06 21.48\25.06 21.48\desde0tesla\desde0tesla\obj\Debug\desde0tesla.Properties.Resources.resources
+C:\Users\Usuario\Downloads\25.06 21.48\25.06 21.48\desde0tesla\desde0tesla\obj\Debug\desde0tesla.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\25.06 21.48\25.06 21.48\desde0tesla\desde0tesla\obj\Debug\desde0tesla.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\25.06 21.48\25.06 21.48\desde0tesla\desde0tesla\obj\Debug\desde0tesla.exe
+C:\Users\Usuario\Downloads\25.06 21.48\25.06 21.48\desde0tesla\desde0tesla\obj\Debug\desde0tesla.pdb
+C:\Users\Usuario\Downloads\25.06 21.48\25.06 21.48\desde0tesla\desde0tesla\bin\Debug\desde0tesla.exe.config
+C:\Users\Usuario\Downloads\25.06 21.48\25.06 21.48\desde0tesla\desde0tesla\bin\Debug\desde0tesla.exe
+C:\Users\Usuario\Downloads\25.06 21.48\25.06 21.48\desde0tesla\desde0tesla\bin\Debug\desde0tesla.pdb
+C:\Users\Usuario\Downloads\SpaceX\desde0tesla\desde0tesla\obj\Debug\desde0tesla.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\SpaceX\desde0tesla\desde0tesla\obj\Debug\desde0tesla.Form1.resources
+C:\Users\Usuario\Downloads\SpaceX\desde0tesla\desde0tesla\obj\Debug\desde0tesla.Form2.resources
+C:\Users\Usuario\Downloads\SpaceX\desde0tesla\desde0tesla\obj\Debug\desde0tesla.Form3.resources
+C:\Users\Usuario\Downloads\SpaceX\desde0tesla\desde0tesla\obj\Debug\desde0tesla.Properties.Resources.resources
+C:\Users\Usuario\Downloads\SpaceX\desde0tesla\desde0tesla\obj\Debug\desde0tesla.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\SpaceX\desde0tesla\desde0tesla\obj\Debug\desde0tesla.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\SpaceX\desde0tesla\desde0tesla\bin\Debug\desde0tesla.exe.config
+C:\Users\Usuario\Downloads\SpaceX\desde0tesla\desde0tesla\bin\Debug\desde0tesla.exe
+C:\Users\Usuario\Downloads\SpaceX\desde0tesla\desde0tesla\bin\Debug\desde0tesla.pdb
+C:\Users\Usuario\Downloads\SpaceX\desde0tesla\desde0tesla\obj\Debug\desde0tesla.exe
+C:\Users\Usuario\Downloads\SpaceX\desde0tesla\desde0tesla\obj\Debug\desde0tesla.pdb
+C:\Users\Usuario\Desktop\hoy c#\desde0tesla\desde0tesla\bin\Debug\desde0tesla.exe.config
+C:\Users\Usuario\Desktop\hoy c#\desde0tesla\desde0tesla\bin\Debug\desde0tesla.exe
+C:\Users\Usuario\Desktop\hoy c#\desde0tesla\desde0tesla\bin\Debug\desde0tesla.pdb
+C:\Users\Usuario\Desktop\hoy c#\desde0tesla\desde0tesla\obj\Debug\desde0tesla.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\hoy c#\desde0tesla\desde0tesla\obj\Debug\desde0tesla.Form1.resources
+C:\Users\Usuario\Desktop\hoy c#\desde0tesla\desde0tesla\obj\Debug\desde0tesla.Form2.resources
+C:\Users\Usuario\Desktop\hoy c#\desde0tesla\desde0tesla\obj\Debug\desde0tesla.Form3.resources
+C:\Users\Usuario\Desktop\hoy c#\desde0tesla\desde0tesla\obj\Debug\desde0tesla.Properties.Resources.resources
+C:\Users\Usuario\Desktop\hoy c#\desde0tesla\desde0tesla\obj\Debug\desde0tesla.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\hoy c#\desde0tesla\desde0tesla\obj\Debug\desde0tesla.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\hoy c#\desde0tesla\desde0tesla\obj\Debug\desde0tesla.exe
+C:\Users\Usuario\Desktop\hoy c#\desde0tesla\desde0tesla\obj\Debug\desde0tesla.pdb
+C:\Users\Usuario\Downloads\desde0tesla\desde0tesla\desde0tesla\obj\Debug\desde0tesla.Form3.resources
+C:\Users\dami_\Desktop\UPSO\GRUPO15_DAMIAN_FLORES_ZEBALLOS (1)\desde0tesla\desde0tesla\bin\Debug\desde0tesla.exe.config
+C:\Users\dami_\Desktop\UPSO\GRUPO15_DAMIAN_FLORES_ZEBALLOS (1)\desde0tesla\desde0tesla\bin\Debug\desde0tesla.exe
+C:\Users\dami_\Desktop\UPSO\GRUPO15_DAMIAN_FLORES_ZEBALLOS (1)\desde0tesla\desde0tesla\bin\Debug\desde0tesla.pdb
+C:\Users\dami_\Desktop\UPSO\GRUPO15_DAMIAN_FLORES_ZEBALLOS (1)\desde0tesla\desde0tesla\obj\Debug\desde0tesla.csproj.AssemblyReference.cache
+C:\Users\dami_\Desktop\UPSO\GRUPO15_DAMIAN_FLORES_ZEBALLOS (1)\desde0tesla\desde0tesla\obj\Debug\desde0tesla.Form1.resources
+C:\Users\dami_\Desktop\UPSO\GRUPO15_DAMIAN_FLORES_ZEBALLOS (1)\desde0tesla\desde0tesla\obj\Debug\desde0tesla.Form2.resources
+C:\Users\dami_\Desktop\UPSO\GRUPO15_DAMIAN_FLORES_ZEBALLOS (1)\desde0tesla\desde0tesla\obj\Debug\desde0tesla.Form3.resources
+C:\Users\dami_\Desktop\UPSO\GRUPO15_DAMIAN_FLORES_ZEBALLOS (1)\desde0tesla\desde0tesla\obj\Debug\desde0tesla.Properties.Resources.resources
+C:\Users\dami_\Desktop\UPSO\GRUPO15_DAMIAN_FLORES_ZEBALLOS (1)\desde0tesla\desde0tesla\obj\Debug\desde0tesla.csproj.GenerateResource.cache
+C:\Users\dami_\Desktop\UPSO\GRUPO15_DAMIAN_FLORES_ZEBALLOS (1)\desde0tesla\desde0tesla\obj\Debug\desde0tesla.csproj.CoreCompileInputs.cache
+C:\Users\dami_\Desktop\UPSO\GRUPO15_DAMIAN_FLORES_ZEBALLOS (1)\desde0tesla\desde0tesla\obj\Debug\desde0tesla.exe
+C:\Users\dami_\Desktop\UPSO\GRUPO15_DAMIAN_FLORES_ZEBALLOS (1)\desde0tesla\desde0tesla\obj\Debug\desde0tesla.pdb
